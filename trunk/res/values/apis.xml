@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="apiBaseUrl">http://api.stackoverflow.com/</string>
+    <string name="apiStats">1.1/stats</string>
+</resources>

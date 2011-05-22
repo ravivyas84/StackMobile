@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="generalnotitle">
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:textColor">#00000000</item>
+		<item name="android:background">#ffffff</item>
+	</style>
+	<style name="texttitle">
+		<item name="android:textColor">#000</item>
+		<item name="android:textSize">16dip</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	<style name="textnormal">
+		<item name="android:textColor">#000</item>
+		<item name="android:textSize">14dip</item>
+	</style>
+</resources>
